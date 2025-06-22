@@ -1,0 +1,18 @@
+{
+    "colors": {
+        "errorColor": 12394528,
+        "succesColor": 32768
+    },
+    "emojis": {    
+        "errorEmoji": "<:error:1368205391401586821>",
+        "succesEmoji": "<:succes:1368205414453481524>",
+        "warningEmoji": "<:warning:1368205425107009618"
+    },
+    "messages": {
+        "manageableMessage": "I cant manage this user!",
+        "autoActionMessage": "I cant do this action on myself!",
+        "higherRoleMessage": "This user is better than you noob",
+        "noPermsMessage": "You dont have permissions to do this action!",
+        "botNoPermsMessage": "I dont have permissions to do this action!" 
+    }
+}

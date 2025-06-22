@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^2.5.1",
+    "asciifyer": "^1.0.8",
+    "colorfuller": "^1.0.5",
+    "discord.js": "^14.20.0",
+    "dog-image-api": "^1.0.3",
+    "dotenv": "^16.5.0",
+    "inquirer": "^12.6.3",
+    "mongoose": "^8.16.0",
+    "random-cat-img": "^1.1.8"
+  },
+  "scripts": {
+    "start": "bun ./src/bot/index.js"
+  }
+}
